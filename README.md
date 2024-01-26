@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-<a href="./src/page/Sobre_Nos.md"><strong> ➥ Sobre Nos </strong></a>
-
-</div>
-
 <br>
 
 <h1> Somos a EPFLinkHub </h1>
